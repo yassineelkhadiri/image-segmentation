@@ -1,0 +1,4 @@
+torch==2.0.1+cu118
+sklearn==1.2.2
+tqdm
+cv2
